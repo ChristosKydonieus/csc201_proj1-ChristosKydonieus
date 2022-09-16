@@ -1,0 +1,3 @@
+Unique FQDNs: [cs.wfu.edu] [dns.google.com] [google.com] [mth.wfu.edu] [wfu.edu] 
+Unique 2DLs: [google.com] [wfu.edu] 
+Unique TDLs: [.edu] [com] 
